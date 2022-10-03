@@ -19,3 +19,5 @@ int main() {
                 {{printf("five");}
                 else if (n==6} 
                     {printf("six");}
+                         else if (n==7)
+                         
