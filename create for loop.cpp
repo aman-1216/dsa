@@ -16,4 +16,6 @@ int main() {
         else if (n==4)
             {printf("four");}
             else if (n==5)
-                {
+                {{printf("five");}
+                else if (n==6} 
+                    {printf("six");}
