@@ -20,4 +20,16 @@ int main() {
                 else if (n==6} 
                     {printf("six");}
                          else if (n==7)
-                         
+                             {printf("seven");}
+                         else if (n==8)
+                             {printf("eight");}
+                         else if (n==9)
+                             {printf("nine");}
+                         else if (n>9 && n%2==0)
+                             {printf("even");}
+                             else
+{printf("odd");}
+    count<<"\n";
+    }
+    return 0;
+}                         
