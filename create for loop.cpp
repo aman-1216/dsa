@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstdio>
 using namespace std;
 int main() {
     // complete the code.
@@ -10,14 +9,14 @@ int main() {
     if (n==1) 
     {printf("one");}
     else if (n==2)
-        {printef("two");}
+        {printf("two");}
     else if (n==3)
         {printf("three");}
         else if (n==4)
             {printf("four");}
             else if (n==5)
-                {{printf("five");}
-                else if (n==6} 
+                {printf("five");}
+                else if (n==6)
                     {printf("six");}
                          else if (n==7)
                              {printf("seven");}
@@ -29,7 +28,7 @@ int main() {
                              {printf("even");}
                              else
 {printf("odd");}
-    count<<"\n";
+    cout<<"\n";
     }
     return 0;
 }                         
